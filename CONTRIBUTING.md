@@ -23,9 +23,9 @@ Before submitting code:
 
 ## Repository Rules
 Please follow these recommendations :
-- Do not add large binaries (APK, videos, raw scans)
-- Keep documentation in /Docs
-- Do not modify core systems without approval
+- Do not add large binaries (APK, videos, raw scans).
+- Keep documentation in /Docs.
+- Do not modify core systems without approval.
 
 ## Contact
-If unsure, open a [Clarification issue] (https://github.com/MirathXR/MirathXRabat/issues) or contact the maintainers directly (email in [Authors](https://github.com/MirathXR/MirathXRabat/blob/main/AUTHORS.md)).
+If unsure, open a [Clarification issue](https://github.com/MirathXR/MirathXRabat/issues) or contact the maintainers directly (email in [Authors](https://github.com/MirathXR/MirathXRabat/blob/main/AUTHORS.md)).
